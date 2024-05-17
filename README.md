@@ -7,6 +7,7 @@ Create Profile: Users can create new profiles by providing necessary information
 Read Profile: Users can view their profiles along with their details.
 Update Profile: Users can edit their profile information, including name, email, and password.
 Delete Profile: Users can delete their profiles if needed.
+
 Technologies Used:
 
 IDE: Visual Studio Code provides a robust development environment with powerful tools and extensions.
